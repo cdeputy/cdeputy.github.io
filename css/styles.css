@@ -10,16 +10,16 @@
     
 }
 body {
-  background: #ffffff;
-  background-color: #CAB068 !important;
+  background: #CAB068 !important;
+
   }
 
 #wrapper{
     font: normal 14px/1em 'Open Sans', arial, sans-serif;
-    color: ##0A2A22;
+    color: #0A2A22;
 }
   
   h1 {
-  color: black;
+  color: #0A2A22;
   }
 
