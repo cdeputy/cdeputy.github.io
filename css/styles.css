@@ -7,6 +7,7 @@
     background-position: top center;
     background-attachment: fixed;
     width: 0 auto;
+    padding: 1em;
     
 }
 body {
@@ -17,9 +18,15 @@ body {
 #wrapper{
     font: normal 14px/1em 'Open Sans', arial, sans-serif;
     color: #0A2A22;
+    padding: 1em;
 }
   
   h1 {
   color: #0A2A22;
+  }
+  
+  #embedded-human{
+      padding: 1em;
+      float: left;
   }
 
